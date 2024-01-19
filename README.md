@@ -13,7 +13,7 @@ GuessTheFlag is a fun and educational game built with Swift UI, challenging user
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/GuessTheFlag.git
+   git clone https://github.com/enirox001/GuessTheFlag.git
    ```
 
 2. **Open in Xcode:**
